@@ -1,0 +1,9 @@
+02-bases-migrado-ts/node_modules/
+
+02-bases-migrado-ts/*.log
+
+02-bases-migrado-ts/coverage/
+
+02-bases/node_modules/
+
+03-typescript/node_modules/
